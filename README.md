@@ -11,4 +11,4 @@ I live in Moscow, like to communicate, eat good food, train in gym, and, of cour
 ### I'm Currently Learning
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
 
-![Dumitru's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdumitrua&show_icons=true&theme=algolia&count_private=true)
+<!-- ![Dumitru's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdumitrua&show_icons=true&theme=algolia&count_private=true) -->
