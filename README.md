@@ -1,5 +1,5 @@
 ## Hey, I'm Dumitru!
-I live in Moscow, like to communicate, eat good food, train in gym, and, of course, coding.
+I live in Moscow, like to communicate, train in gym, and, of course, coding.
 
 ### Get In Touch
 <a href="mailto:bdumitruawork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://t.me/bdumitrua"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
