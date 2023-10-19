@@ -9,6 +9,3 @@ I live in Moscow, I like to communicate, learn new things, and, of course, write
 
 ### What Frontend technologies i use
 ![My Skills](https://skillicons.dev/icons?i=vue,react,redux,css,html&theme=dark)
-
-### Other
-![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark)
